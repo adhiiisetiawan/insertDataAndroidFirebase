@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659093967953",
+    "firebase_url": "https://insertdata-2ab8c.firebaseio.com",
+    "project_id": "insertdata-2ab8c",
+    "storage_bucket": "insertdata-2ab8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659093967953:android:73a987a81cd8f4ceeb9470",
+        "android_client_info": {
+          "package_name": "com.oxcart.insertdatafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659093967953-e003fquro5m314hl1rvu2kreifda8m3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3WGkLCKpadV8jQ1i5azJhQNTA_JOQDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659093967953-e003fquro5m314hl1rvu2kreifda8m3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

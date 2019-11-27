@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InsertDataFirebase</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="insert_data_to_firebase">Insert Data to Firebase</string>
+    <string name="show_data_from_database">Show Data From Database</string>
+</resources>
